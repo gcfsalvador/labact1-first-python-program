@@ -7,7 +7,7 @@ print("Weight in Pounds (lbs) = " + lbs)
 print("Weight converted to Kilogram (kg) = " + kg)
 
 print("==================================")
-
+#american metric system bro
 mi = 21
 km = mi*1.609
 km = round(km,2)
@@ -17,7 +17,7 @@ print("Length in Miles (mi) " + mi)
 print("Length in Kilometer (km) " + km)
 
 print("==================================")
-
+#farenman
 Fahrenheit = 10000
 Celsius = (5/9)*(Fahrenheit - 32)
 Fahrenheit = str(Fahrenheit)
@@ -27,7 +27,7 @@ print("Temperature to Fahrenheit (°F)" + Fahrenheit)
 print("Temperature to Celsius (°C)" + Celsius)
 
 print("==================================")
-
+#student stuff
 Student1 = "25"
 Student2 = "27"
 Student3 = "24"
